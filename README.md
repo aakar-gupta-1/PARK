@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
+=======
+# PARK- (Travalarm)
+>>>>>>> a58b11286b9b72c2f4ff2ced0880536b9aaa47e5
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,6 +12,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
+<<<<<<< HEAD
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -68,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+Routes can be distinguished with the means of travel(by train, by road, etc).
+>>>>>>> a58b11286b9b72c2f4ff2ced0880536b9aaa47e5
