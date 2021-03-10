@@ -52,7 +52,7 @@ elif (time>3600):
 @app.route('/')
 def home():
     temp = ({'Distance': distance, 'Time' : time, "OTP": otp})
-    return render_template('/public/index.html')
+    return render_template('/public/index.html', temp=temp)
 
 if "__main__" == __name__:
     app.run(debug=True)
