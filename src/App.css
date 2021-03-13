@@ -156,3 +156,6 @@ select {
   font-style: italic;
   color: #555;
 }
+.otp-form {
+  margin-left: 150px;
+}

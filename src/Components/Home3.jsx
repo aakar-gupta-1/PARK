@@ -32,7 +32,7 @@ function Home3(props) {
                  </select>
                 </form> minutes before</h3>
                 <button class="buttoncancel">
-                <Link class="buttonlink" to="/home3">
+                <Link class="buttonlink" to="/">
                     Cancel
                 </Link>
                     </button>
